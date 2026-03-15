@@ -111,12 +111,12 @@ Due to file size limitations, large sequencing datasets such as FASTQ files, BAM
 
 ---
 
-## Author
+## Authors
 
 **Mayar Mousa**
 University of Jeddah
 Data Science
 
-Yara Alghamdi
+**Yara Alghamdi**
 King Abdulaziz university
 Plant Science
