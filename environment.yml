@@ -1,0 +1,25 @@
+name: rnaseq-analysis
+
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - star
+  - salmon
+  - fastqc
+  - multiqc
+  - fastp
+  - samtools
+  - seqkit
+  - igv
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - r-base
+  - bioconductor-deseq2
+  - bioconductor-clusterprofiler
