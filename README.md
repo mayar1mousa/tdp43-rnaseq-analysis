@@ -12,7 +12,7 @@ A focused investigation was also performed on **chromosome 5** to explore transc
 ---
 
 ## RNA-seq Pipeline Overview
-![RNA-seq Pipeline](images/rnaseq_pipeline.png)
+![RNA-seq Pipeline](rnaseq_pipeline.png.png)
 
 The RNA-seq workflow follows a standard transcriptomics pipeline executed in a Linux environment.
 
